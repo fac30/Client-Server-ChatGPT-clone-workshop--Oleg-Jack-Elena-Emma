@@ -80,3 +80,64 @@ node server.js
 ---
 
 <br>
+
+I also used ESLint to check your JavaScript code for potential errors and enforce a coding style. The steps:
+
+1. **Install ESLint:**
+   Open your terminal and run the following command to install ESLint globally on your machine:
+
+   ```bash
+   npm install -g eslint
+   ```
+
+2. **Create ESLint Configuration File:**
+   In your project's root directory, create an ESLint configuration file. You can create it manually or use the following command to generate a configuration file:
+
+   ```bash
+   npx eslint --init
+   ```
+
+   Follow the prompts to configure ESLint according to your preferences. This will generate a `.eslintrc.js` file.
+
+3. **Install ESLint Plugins (if needed):**
+   Depending on your project and the features you want ESLint to check, you might need to install additional ESLint plugins. For example, if you're using ESLint with Node.js and browser code, you might want to install the following plugins:
+
+   ```bash
+   npm install eslint-plugin-node eslint-plugin-browser --save-dev
+   ```
+
+   Add these plugins to your `.eslintrc.js` file if needed.
+
+4. **Run ESLint:**
+   Once ESLint is configured, you can run it on your project by executing the following command in your terminal:
+
+   ```bash
+   eslint path/to/your/files
+   ```
+
+   Replace `path/to/your/files` with the actual path or file names you want ESLint to check. For example, you can run it on all JavaScript files in your project:
+
+   ```bash
+   eslint .
+   ```
+
+   ESLint will output any errors or warnings it finds in your code.
+
+5. **Automate ESLint with NPM Scripts:**
+   You can add ESLint as a script in your `package.json` file to make it easy to run. Add the following lines to your `package.json`:
+
+   ```json
+   "scripts": {
+     "lint": "eslint ."
+   }
+   ```
+
+   Now you can run ESLint by executing:
+
+   ```bash
+   npm run lint
+   ```
+
+   This will run ESLint on your entire project.
+
+By following these steps, you can integrate ESLint into your project and use it to check and enforce coding standards in your JavaScript code. 
