@@ -16,7 +16,7 @@ In this project, storage of the API Key, processing the the HTTP requests,  comm
 
 <br>
 
-Here's an overview of the **Node.js** script:
+## Here's an overview of the **Node.js** script:
 
 1. **Dependencies**: It uses several Node.js packages, including `dotenv` for managing environment variables, `express` for creating the server, `body-parser` for parsing request bodies, `node-fetch` for making HTTP requests, and `cors` to enable Cross-Origin Resource Sharing.
 
@@ -36,7 +36,7 @@ Here's an overview of the **Node.js** script:
 
 <br>
 
-Here's a summary of how client-side interaction works:
+## Here's a summary of how client-side interaction works:
 
 1. **Client-Side (`index.html` and embedded JavaScript)**:
    - The user interacts with the chat interface in the browser.
@@ -67,7 +67,7 @@ The `questionHistory` on the client side is primarily used for maintaining conte
 
 <br>
 
-To launch the app:
+## To launch the app:
 
 ```
 npm init -y
@@ -81,7 +81,7 @@ node server.js
 
 <br>
 
-I also used ESLint to check your JavaScript code for potential errors and enforce a coding style. The steps:
+## I also used ESLint to check your JavaScript code for potential errors and enforce a coding style. The steps:
 
 1. **Install ESLint:**
    Open your terminal and run the following command to install ESLint globally on your machine:
