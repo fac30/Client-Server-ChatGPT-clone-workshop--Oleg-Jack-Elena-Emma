@@ -6,6 +6,6 @@
 
 <br><br>
 
-Re-engineering of the app originally implememted as a front-end only here: https://github.com/fac30/Front-end-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma.git
+Re-engineering the app originally implememted as a front-end only here: https://github.com/fac30/Front-end-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma.git
 
 In this project the functions of storage of the API Key, processing the the HTTP requests and retrieving the results transfered to the backend **node.js** server
