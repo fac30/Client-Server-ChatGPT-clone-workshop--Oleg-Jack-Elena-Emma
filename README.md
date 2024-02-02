@@ -44,13 +44,17 @@ Here's a summary of how client-side interaction works:
    - When a user submits a question through the form, the client-side code sends this question, along with the current `questionHistory`, to the server for processing.
 
 2. **Server-Side (`server.js`)**:
+   - The server (server.js) starts with Express.
+   - It loads environment variables from the .env file using dotenv.
+   - API Key Extraction (openaiApiKey):
+   - The server extracts the OpenAI API key from the process environment variables using process.env.OPENAI_API_KEY.
    - The server receives incoming requests to the `/api/chat` endpoint.
    - It extracts the conversation history (`conversation` array) from the request body.
    - The server makes a call to the OpenAI GPT-3.5 API using the provided conversation history.
    - The OpenAI API generates a response, and the server processes this response.
    - The server may log information, handle errors, and then constructs a response containing the answer from the OpenAI API and the `questionHistory`.
 
-3. **Client-Side (Response Handling)**:
+4. **Client-Side (Response Handling)**:
    - The client-side JavaScript code receives the response from the server.
    - It updates the `questionHistory` variable on the client side with the new question and answer from the user and OpenAI API.
    - It updates the displayed conversation history on the webpage.
