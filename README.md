@@ -10,7 +10,9 @@ Re-engineering the app originally implememted as a front-end only here: https://
 
 In this project, functions of storage of the API Key, processing the the HTTP requests,  communicating with API and retrieving the results transfered to the backend **Node.js** server
 
-<br><br>
+<br>
+---
+<br>
 
 Here's an overview of the **Node.js** script:
 
@@ -26,7 +28,9 @@ Here's an overview of the **Node.js** script:
 
 6. **Server Start**: Finally, the server listens on the specified port, and a message is logged indicating the server is running.
 
-<br><br>
+<br>
+---
+<br>
 
 Here's a summary of how client-side interaction works:
 
