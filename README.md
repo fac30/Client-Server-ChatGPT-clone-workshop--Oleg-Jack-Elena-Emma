@@ -13,8 +13,6 @@ In this project, functions of storage of the API Key, processing the the HTTP re
 
 ---
 
-<br>
-<br>
 
 Here's an overview of the **Node.js** script:
 
@@ -31,7 +29,9 @@ Here's an overview of the **Node.js** script:
 6. **Server Start**: Finally, the server listens on the specified port, and a message is logged indicating the server is running.
 
 <br>
+
 ---
+
 <br>
 
 Here's a summary of how client-side interaction works:
