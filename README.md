@@ -10,9 +10,11 @@ Re-engineering the app originally implememted as a front-end only here: https://
 
 In this project, functions of storage of the API Key, processing the the HTTP requests,  communicating with API and retrieving the results transfered to the backend **Node.js** server
 
+<br>
 
 ---
 
+<br>
 
 Here's an overview of the **Node.js** script:
 
