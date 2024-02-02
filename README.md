@@ -39,7 +39,7 @@ This project entails migrating key functionalities, such as API key storage, han
 
 <br>
 
-## Here's a summary of how client-side interaction works:
+## Here's a summary of how client-side interaction of the site works:
 
 1. **Client-Side (`index.html` and embedded JavaScript)**:
    - The user interacts with the chat interface in the browser.
