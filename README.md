@@ -72,6 +72,7 @@ To launch the app:
 ```
 npm init -y
 npm install express body-parser node-fetch@2.6.11 cors dotenv
+node server.js
 ```
 
 <br>
