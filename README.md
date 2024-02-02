@@ -6,4 +6,4 @@
 
 <br>
 
-The re-engineering of the app originally implememted as a front-end only here
+Re-engineering of the app originally implememted as a front-end only here: https://github.com/fac30/Front-end-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma.git
