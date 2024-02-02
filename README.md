@@ -81,7 +81,7 @@ node server.js
 
 <br>
 
-## I also used ESLint to check your JavaScript code for potential errors and enforce a coding style. The steps:
+## I also used ESLint to check JavaScript code for potential errors and enforce a coding style. The steps:
 
 1. **Install ESLint:**
    Open your terminal and run the following command to install ESLint globally on your machine:
