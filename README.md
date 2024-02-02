@@ -12,7 +12,7 @@ In this project, functions of storage of the API Key, processing the the HTTP re
 
 <br><br>
 
-Here's an overview of the code:
+Here's an overview of the **Node.js** script:
 
 1. **Dependencies**: It uses several Node.js packages, including `dotenv` for managing environment variables, `express` for creating the server, `body-parser` for parsing request bodies, `node-fetch` for making HTTP requests, and `cors` to enable Cross-Origin Resource Sharing.
 
