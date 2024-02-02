@@ -11,7 +11,7 @@
 
 Re-engineering the app initially developed as a front-end-only solution available here: https://github.com/fac30/Front-end-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma.git
 
-This project entails migrating key functionalities, such as API key storage, handling HTTP requests, and interfacing with the API, to a backend powered by Node.js. The shift aims to enhance security, efficiency, and overall system architecture."
+This project entails migrating key functionalities, such as API key storage, handling HTTP requests, and interfacing with the API, to a backend powered by Node.js. The shift aims to enhance security, efficiency, and overall system architecture.
 
 <br>
 
