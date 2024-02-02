@@ -3,7 +3,7 @@
 
 ## Re-engineered the app to use client-server architecture for the improved security and scalability
 
-<img width="979" alt="Screenshot 2024-02-02 at 23 12 44" src="https://github.com/fac30/Client-Server-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma/assets/113034133/28a1ecc2-4b00-49f1-9346-8bc2f1ea283a">
+<img width="1000" alt="Screenshot 2024-02-02 at 23 12 44" src="https://github.com/fac30/Client-Server-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma/assets/113034133/28a1ecc2-4b00-49f1-9346-8bc2f1ea283a">
 <img width="1000" alt="Screenshot 2024-02-02 at 19 32 38" src="https://github.com/fac30/Client-Server-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma/assets/113034133/a788a7c5-b3e5-4ff4-9433-7fe5ae21ec24">
 <img width="1000" alt="Screenshot 2024-02-02 at 19 30 43" src="https://github.com/fac30/Client-Server-ChatGPT-clone-workshop--Oleg-Jack-Elena-Emma/assets/113034133/498d2c09-9e41-4201-a11f-714b6dee5be5">
 
