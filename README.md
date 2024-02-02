@@ -60,3 +60,16 @@ Here's a summary of how client-side interaction works:
    - It updates the displayed conversation history on the webpage.
 
 The `questionHistory` on the client side is primarily used for maintaining context, providing a better user experience, and persisting the conversation across page reloads. It's not directly used on the server side for processing requests but is included in the request payload to provide context to the OpenAI GPT-3.5 API. The server then sends the updated `questionHistory` back to the client in the response.
+
+<br>
+
+---
+
+<br>
+
+To launch the app:
+
+```
+npm init -y
+npm install express body-parser node-fetch@2.6.11 cors
+```
