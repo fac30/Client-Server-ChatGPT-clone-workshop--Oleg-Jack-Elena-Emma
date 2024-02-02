@@ -12,6 +12,7 @@ In this project, functions of storage of the API Key, processing the the HTTP re
 
 <br>
 ---
+
 <br>
 
 Here's an overview of the **Node.js** script:
